@@ -6,6 +6,14 @@ In the fast-paced world of virtual meetings and high-stakes conferences, TalkWis
 
 Say goodbye to confusion and hello to clarity. With TalkWise, every meeting, every video you watch, every podcast/audiobook you listen, becomes a powerhouse of productivity as you can instantly chat with it! 🚀🔥
 
+## Screenshots
+
+![image](public/landingPage.png)
+
+![image](public/microphoneTranscibe.png)
+
+![image](public/videoStreamTranscribe.png)
+
 ## ✨ Features
 ✅ **Live transcription** for speaker & microphone audio  
 ✅ **Deepgram WebSocket API** integration  
